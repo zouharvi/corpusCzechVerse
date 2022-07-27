@@ -6,7 +6,7 @@ This repo contains 1305 out of 1689 books of poetry from the [Corpus of Czech Ve
 
 JSON files comprise not only the text themselves and their metadata but also:
 <ul>
-	<li>thourough annotation of poetic meters</li>
+	<li>thorough annotation of poetic meters</li>
 	<li>annotation of rhymes</li>
 	<li>phonetic transcription</li>
 	<li>tokenization</li>
@@ -18,7 +18,7 @@ JSON files comprise not only the text themselves and their metadata but also:
 
 ## Structure
 
-Each file holds poems comming from a single book of poetry. Each poem is a dict with following structure:
+Each file holds poems coming from a single book of poetry. Each poem is a dict with following structure:
 
 ```python
 {
@@ -116,7 +116,7 @@ Furthermore we'd like to ask you to quote following articles:
 	journal = {Studia Metrica et Poetica},
 	number = {1},
 	volume = {2},
-	year = {2015}
+	year = {2015},
 	pages = {107--118},
 }
 ```
@@ -131,7 +131,7 @@ Furthermore we'd like to ask you to quote following articles:
 	journal = {Glottotheory},
 	number = {2},
 	volume = {7},
-	year = {2016}
+	year = {2016},
 	pages = {159--174},
 }
 ```
